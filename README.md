@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhaskar Badgurjar</h1>
+<h1 align="center">Hi 👋, I'm Bhaskar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFo1LHbBU_8bSMfRZPSIBrzv-TJdG8FFWrSw&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskar08&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskar08" /> </p>
